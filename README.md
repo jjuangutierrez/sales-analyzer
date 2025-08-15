@@ -1,0 +1,1 @@
+Sales Analyzer (In development) — A powerful tool to analyze your sales statistics. This application helps you visualize and understand your product sales, making it easier to track performance and make informed decisions.
